@@ -46,8 +46,8 @@ fBodyGyroMag     : FrequencyDomain.BodyBody.AngularVelocity.Magnitude
 
 fBodyGyroJerkMag : FrequencyDomain.BodyBody.AngularVelocity.JerkMagnitude
 
-
-
+Measurements of variables
+=========================
 The set of variables that were estimated from these signals are: 
 
 mean(): Mean value
