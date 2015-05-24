@@ -12,7 +12,7 @@ This project includes the following files:
 =========================================
 - 'README.md'
 - 'Codebook.md' : Shows information about the variables used in the tidy data  
-- 'Run_analysis.R' : Code for running the analysis to obatain the tidy data
+- 'Run_analysis.R' : Code for running the analysis to obtain the tidy data
 
 Steps taken to produce independent tidy data set 
 ==================================================
