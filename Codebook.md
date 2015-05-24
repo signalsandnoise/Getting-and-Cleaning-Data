@@ -11,6 +11,7 @@ Variables for feature Vector
 ============================
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+
 tBodyAcc-XYZ     : TimeDomain.Body.Acceleration-XYZ
 
 tGravityAcc-XYZ  : TimeDomain.Gravity.Acceleration-XYZ
@@ -48,6 +49,7 @@ fBodyGyroJerkMag : FrequencyDomain.BodyBody.AngularVelocity.JerkMagnitude
 
 
 The set of variables that were estimated from these signals are: 
+
 mean(): Mean value
 
 std(): Standard deviation
