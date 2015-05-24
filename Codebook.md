@@ -12,21 +12,37 @@ Variables for feature Vector
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 tBodyAcc-XYZ     : TimeDomain.Body.Acceleration-XYZ
+
 tGravityAcc-XYZ  : TimeDomain.Gravity.Acceleration-XYZ
+
 tBodyAccJerk-XYZ : TimeDomain.Body.Acceleration.Jerk-XYZ
+
 tBodyGyro-XYZ	   : TimeDomain.Body.AngularVelocity-XYZ
+
 tBodyGyroJerk-XYZ: TimeDomain.Body.AngularVelocity.Jerk-XYZ
+
 tBodyAccMag      : TimeDomain.Body.Acceleration.Magnitude
+
 tGravityAccMag   : TimeDomain.Gravity.Acceleration.Magnitude
+
 tBodyAccJerkMag  : TimeDomain.Body.Acceleration.JerkMagnitude
+
 tBodyGyroMag     : TimeDomain.Body.AngularVelocity.Magnitude
+
 tBodyGyroJerkMag : TimeDomain.Body.AngularVelocity.JerkMagnitude
+
 fBodyAcc-XYZ     : FrequencyDomain.Body.Acceleration-XYZ
+
 fBodyAccJerk-XYZ : FrequencyDomain.Body.Acceleration.Jerk-XYZ
+
 fBodyGyro-XYZ    : FrequencyDomain.Body.AngularVelocity-XYZ
+
 fBodyAccJerkMag  : FrequencyDomain.Body.Acceleration.Magnitude
+
 fBodyAccJerkMag  : FrequencyDomain.BodyBody.Acceleration.JerkMagnitude
+
 fBodyGyroMag     : FrequencyDomain.BodyBody.AngularVelocity.Magnitude
+
 fBodyGyroJerkMag : FrequencyDomain.BodyBody.AngularVelocity.JerkMagnitude
 
 The set of variables that were estimated from these signals are: 
