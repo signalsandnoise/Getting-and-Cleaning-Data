@@ -14,7 +14,7 @@ This project includes the following files:
 - 'Codebook.md' : Shows information about the variables used in the tidy data  
 - 'Run_analysis.R' : Code for running the analysis to obtain the tidy data
 
-Steps taken to produce independent tidy data set 
+Steps taken to produce final tidy data set 
 ==================================================
 The following steps were taken to produce the independent tidy data set with the average of each variable for each activity and each subject: 
 
@@ -24,9 +24,17 @@ The following steps were taken to produce the independent tidy data set with the
   4. Label data set with with descriptive variable names. 
   5. From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Details of the code can be found in run_analysis.R
+N.B. Details of the code can be found in run_analysis.R
+
+Final tidy Data Set
+===================
+The final tidy data set is a set of 180 observations with 81 variables comprising the following:
+- A 79-feature vector with time and frequency domain variables. 
+- The activity label. 
+- An identifier of the subject who carried out the experiment.
 
 N.B. The final product data set is tidy as each column is a variable and each row is an observation corresponding to the subject and activity. Lastly each type of observational unit, the subject or activity forms a table. 
+
 
 Details of the original dataset are listed below
 ==================================================================
